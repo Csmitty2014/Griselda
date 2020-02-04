@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GriseldaExample", "GriseldaExample\GriseldaExample.csproj", "{1334BA67-B5D8-4272-8FB5-4810BE5E571D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1334BA67-B5D8-4272-8FB5-4810BE5E571D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1334BA67-B5D8-4272-8FB5-4810BE5E571D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1334BA67-B5D8-4272-8FB5-4810BE5E571D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1334BA67-B5D8-4272-8FB5-4810BE5E571D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D1532D0-D100-41E0-90FF-BA61BF43D76F}
+	EndGlobalSection
+EndGlobal
